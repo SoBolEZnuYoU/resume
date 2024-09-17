@@ -1,0 +1,19 @@
+body {
+	max-width: fit-content;
+	margin-inline: auto;
+	border: 2px solid #33381b;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+img {
+	border-radius: 10%;
+}
+
+table {
+	border: 2px solid #33381b;
+}
+
+.tbody {
+	border: 1px solid black;
+}
